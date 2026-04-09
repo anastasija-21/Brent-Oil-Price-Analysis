@@ -7,10 +7,10 @@ This project analyses historical Brent crude oil prices using data from the U.S.
 ![Moving Averages](https://github.com/anastasija-21/Brent-Oil-Price-Analysis/blob/main/Moving_averages.png)
 
 ## Volatility
-![Volatility](images/volatility.png)
+![Volatility](https://github.com/anastasija-21/Brent-Oil-Price-Analysis/blob/main/volatility.png)
 
 ## Returns
-![Returns](images/returns.png)
+![Returns](https://github.com/anastasija-21/Brent-Oil-Price-Analysis/blob/main/returns.png)
 
 ## Volatility_returns
-![Volatility_returns](images/Volatility_returns.png)
+![Volatility_returns](https://github.com/anastasija-21/Brent-Oil-Price-Analysis/blob/main/Volatility_returns.png)
